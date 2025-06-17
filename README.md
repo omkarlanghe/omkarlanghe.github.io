@@ -1,2 +1,2 @@
 # Professional Profile
-[sachinwakle.netlify.app](https://sachinwakle.netlify.app/)
+[omkarlanghe.netlify.app](https://omkarlanghe.netlify.app/)
